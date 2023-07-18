@@ -1,0 +1,25 @@
+{
+  "name": "pathbasedsvg",
+  "version": "1.0.0",
+  "description": "a simple react component to render svg based on path automaticlly",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaycethanks/PathBasedSvg.git"
+  },
+  "keywords": [
+    "svg",
+    "path",
+    "computed",
+    "path"
+  ],
+  "author": "SunZhongyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaycethanks/PathBasedSvg/issues"
+  },
+  "homepage": "https://github.com/jaycethanks/PathBasedSvg#readme"
+}
