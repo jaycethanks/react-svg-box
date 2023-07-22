@@ -1,14 +1,13 @@
 {
-  "name": "pathbasedsvg",
+  "name": "react-svg-box",
   "version": "1.0.0",
-  "description": "a simple react component to render svg based on path automaticlly",
+  "description": "a simple react component to render svg based on child string automaticlly",
   "main": "index.tsx",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaycethanks/PathBasedSvg.git"
+    "url": "git+https://github.com/jaycethanks/react-svg-box.git"
   },
   "keywords": [
     "svg",
@@ -19,7 +18,7 @@
   "author": "SunZhongyi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jaycethanks/PathBasedSvg/issues"
+    "url": "https://github.com/jaycethanks/react-svg-box/issues"
   },
-  "homepage": "https://github.com/jaycethanks/PathBasedSvg#readme"
+  "homepage": "https://github.com/jaycethanks/react-svg-box#readme"
 }
